@@ -11,5 +11,9 @@ npm start
 open love2d_lua_installatie.pdf
 ```
 
+## Latest release
+[v1.0](https://github.com/CoderDojoRotterdam/installing-love2d/releases/tag/1.0)
+[PDF](https://github.com/CoderDojoRotterdam/installing-love2d/releases/download/1.0/love2d_lua_installatie.pdf)
+
 ## License
 [MIT](LICENSE)
