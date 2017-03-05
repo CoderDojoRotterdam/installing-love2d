@@ -1,0 +1,16 @@
+{
+  "name": "installing-lua-love2d",
+  "version": "1.0.0",
+  "description": "A manual on how to install Love2D with Lua en Atom on Windows an macOS",
+  "scripts": {
+    "start": "./node_modules/.bin/core"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "coderdojo_workshop_options": {
+    "file_in": "love2d_lua_installatie.md",
+    "file_out": "love2d_lua_installatie.pdf"
+  }
+
+}
