@@ -7,7 +7,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "coderdojo_workshop_options": {
     "file_in": "love2d_lua_installatie.md",
     "file_out": "love2d_lua_installatie.pdf"
